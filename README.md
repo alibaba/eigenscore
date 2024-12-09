@@ -9,3 +9,16 @@
 ## Setup
 * **Dataset** The dataset can be downloaded here ...
 * **Requirements** ...
+
+## Run the code
+
+## Use Eigensocre in your code
+
+## Citation
+```
+@article{chen2024inside, title={INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection},
+author={Chen, Chao and Liu, Kai and Chen, Ze and Gu, Yi and Wu, Yue and Tao, Mingyuan and Fu, Zhihang and Ye, Jieping},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024}
+```
+
