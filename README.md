@@ -7,8 +7,10 @@
 * If you have any question about our paper or code, please don't hesitate to contact with me chench@zju.edu.cn/ercong.cc@alibaba-inc.com, we will update our repository accordingly
 
 ## Setup
-* **Dataset** The dataset can be downloaded here ...
-* **Requirements** ...
+### **Dataset** 
+The dataset can be downloaded here ...
+
+### **Requirements**
 
 ## Run the code
 
